@@ -31,6 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Challenge4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Untitled1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="challenge1.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

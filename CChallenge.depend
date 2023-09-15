@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1694769050 source:c:\users\youcode\desktop\cchallenge\challenge1.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:c:\users\youcode\desktop\cchallenge\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694769050 source:c:\users\youcode\desktop\cchallenge\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1694781970 source:c:\users\youcode\desktop\cchallenge\challenge2.c
+	<stdio.h>
+	<stdlib.h>
+
+1694769791 source:c:\users\youcode\desktop\cchallenge\challenge3.c
+	<stdio.h>
+	<stdlib.h>
+
+1694769724 source:c:\users\youcode\desktop\cchallenge\challenge4.c
+	<stdio.h>
+	<stdlib.h>
+
+1694769867 source:c:\users\youcode\desktop\cchallenge\challenge5.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1694769915 source:c:\users\youcode\desktop\cchallenge\challenge6.c
+	<stdio.h>
+	<stdlib.h>
+
+1694769961 source:c:\users\youcode\desktop\cchallenge\challenge7.c
+	<stdio.h>
+	<stdlib.h>
+
+1694781909 source:c:\users\youcode\desktop\cchallenge\challenge8.c
+	<stdio.h>
+	<stdlib.h>
+

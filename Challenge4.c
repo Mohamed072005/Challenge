@@ -11,7 +11,7 @@ int main()
     scanf("%d", &b);
     printf("Enter your third number: \n\t");
     scanf("%d", &c);
-    printf("Enter your third number: \n\t");
+    printf("Enter your fourth number: \n\t");
     scanf("%d", &d);
 
     somme = (a + b + c + d) / 3;
@@ -21,3 +21,4 @@ int main()
 
     return 0;
 }
+
