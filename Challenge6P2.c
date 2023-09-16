@@ -1,18 +1,24 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main()
+{
 
     float a;
 
     printf("Enter your number here: \n\t");
     scanf("%f", &a);
 
-    if(a == 0){
+    if(a == 0)
+    {
         printf("Your number equal to 0, that's mean your number is lacking");
-    }else if(a < 0){
+    }
+    else if(a < 0)
+    {
         printf("Your number smaller than 0, that's mean your number is negative");
-    }else{
+    }
+    else
+    {
         printf("Your number greater than 0, that's mean your number is positive");
 
     }
