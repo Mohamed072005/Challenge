@@ -11,6 +11,8 @@ int main(){
     printf("%o\n", a);
     printf("%x", a);
 
+    return 0;
+
 
 
 }

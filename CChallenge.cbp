@@ -31,13 +31,43 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Challenge1P2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge2P2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge3P2.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Challenge4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge4P2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Challenge8.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Untitled1.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="challenge1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="challenge2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="challenge6.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
