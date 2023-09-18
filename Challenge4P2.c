@@ -14,7 +14,7 @@ int main(){
     printf("Enter the number \"c\" here : \n\t");
     scanf("%d", &c);
 
-    delta = (pow(b, 2) - 4 * a * b);
+    delta = (pow(b, 2) - 4 * a * c);
 
     if(delta > 0){
         printf("The equation has two solutions:\n\n");
